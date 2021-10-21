@@ -93,6 +93,7 @@ h1,
     .background-image::after {
         border-bottom-right-radius: 10px;
         border-top-left-radius: 0;
+        
 
 
     }
@@ -102,6 +103,7 @@ h1,
         background: url(images/image-header-desktop.jpg);
         height: auto;
         width: 50%;
+        background-repeat: no-repeat;
    
     }
     .card-content {
